@@ -1,0 +1,1 @@
+<div class="logo"><img alt="" width="50px" height="50px" src="<?php echo base_url(); ?>public/img/avatar.png"></div>
